@@ -11,9 +11,9 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [碎碎念隨筆（七）：不只有 copyright，也有 copyleft喔](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E4%B8%83-%E4%B8%8D%E5%8F%AA%E6%9C%89-copyright-%E4%B9%9F%E6%9C%89-copyleft%E5%96%94-ca76867fe76e?source=rss-1f0703e3e84b------2)
 - [LeetCode 解題紀錄：389. Find the Difference](https://medium.com/@TitaLiu/leetcode-%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84-389-find-the-difference-c7589bd7faf6?source=rss-1f0703e3e84b------2)
 - [碎碎念隨筆（六）：python 出現了莫名其妙的 IndentationError](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E5%85%AD-python-%E5%87%BA%E7%8F%BE%E4%BA%86%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E7%9A%84-indentationerror-c7878c7c8c8b?source=rss-1f0703e3e84b------2)
-- [碎碎念隨筆（五）：安裝 OpenCV 時如何設定環境變數？](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E4%BA%94-%E5%AE%89%E8%A3%9D-opencv-%E6%99%82%E5%A6%82%E4%BD%95%E8%A8%AD%E5%AE%9A%E7%92%B0%E5%A2%83%E8%AE%8A%E6%95%B8-bfcfb2f92f42?source=rss-1f0703e3e84b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiffanyliu1224&show_icons=true&locale=en" alt="tiffanyliu1224" /></p>
