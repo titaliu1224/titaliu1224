@@ -11,9 +11,9 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [碎碎念隨筆（九）：如何用 Powershell 取得 CPU 溫度](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E4%B9%9D-%E5%A6%82%E4%BD%95%E7%94%A8-powershell-%E5%8F%96%E5%BE%97-cpu-%E6%BA%AB%E5%BA%A6-5ec802b8e5e9?source=rss-1f0703e3e84b------2)
 - [碎碎念隨筆（八）：INT_MAX = -1](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E5%85%AB-int-max-1-d756633d79f3?source=rss-1f0703e3e84b------2)
 - [碎碎念隨筆（七）：不只有 copyright，也有 copyleft喔](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E4%B8%83-%E4%B8%8D%E5%8F%AA%E6%9C%89-copyright-%E4%B9%9F%E6%9C%89-copyleft%E5%96%94-ca76867fe76e?source=rss-1f0703e3e84b------2)
-- [LeetCode 解題紀錄：389. Find the Difference](https://medium.com/@TitaLiu/leetcode-%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84-389-find-the-difference-c7589bd7faf6?source=rss-1f0703e3e84b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiffanyliu1224&show_icons=true&locale=en" alt="tiffanyliu1224" /></p>
