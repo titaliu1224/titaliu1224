@@ -11,9 +11,9 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [碎碎念隨筆（十）：如何在 VSCode 中使用 PowerShell Core 7?](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E5%8D%81-%E5%A6%82%E4%BD%95%E5%9C%A8-vscode-%E4%B8%AD%E4%BD%BF%E7%94%A8-powershell-core-7-3a5d7533b4e4?source=rss-1f0703e3e84b------2)
-- [碎碎念隨筆（九）：如何用 Powershell 取得 CPU 溫度](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E4%B9%9D-%E5%A6%82%E4%BD%95%E7%94%A8-powershell-%E5%8F%96%E5%BE%97-cpu-%E6%BA%AB%E5%BA%A6-5ec802b8e5e9?source=rss-1f0703e3e84b------2)
-- [碎碎念隨筆（八）：INT_MAX = -1](https://medium.com/@TitaLiu/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%9A%A8%E7%AD%86-%E5%85%AB-int-max-1-d756633d79f3?source=rss-1f0703e3e84b------2)
+- [Java: GridLayout + tic-tac-toe](https://titaliu1224.github.io//posts/java_grid/)
+- [電影心得：Coded Bias 編碼偏見](https://titaliu1224.github.io//posts/movie_coded_bias/)
+- [嗨你好，我是 Tita](https://titaliu1224.github.io//posts/intro/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=titaliu1224&show_icons=true&locale=en" alt="tiffanyliu1224" /></p>
