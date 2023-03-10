@@ -17,6 +17,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titaliu1224&theme=nord_bright)
+![stats card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=titaliu1224&theme=nord_bright&exclude=SCSS)
 
 </p>
 
