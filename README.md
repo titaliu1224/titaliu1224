@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/kkI1JSM.gif"></p>
 <h3 align="center"><img src="https://i.imgur.com/YVRdp4w.gif" /></h3>
 
-<h3 align="left"> My github badges: </h3>
+## My github badges:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titaliu1224&theme=chalk" alt="tiffanyliu1224" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - ⚡ I'm trying to **contribute in open source projects**
 
-### Latest Blogs posts
+## Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [利用 Github Actions 自動連結其他 Blog 的 RSS](https://titaliu1224.github.io//posts/automatic_link_to_other_blog/)
 - [LeetCode: 14. Longest Common Prefix](https://titaliu1224.github.io//posts/LeetCode_14_Longest_Common_Prefix/)
@@ -18,12 +18,11 @@
 
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titaliu1224&theme=nord_bright)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tita liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tita liu" height="30" width="40" /></a>
-<a href="https://medium.com/@titaliu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@titaliu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tiffanyliu1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tiffanyliu1224" height="30" width="40" /></a>
 </p>
+
+## Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tita-liu-7a5057224/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://titaliu1224.github.io)
 
 
 <h3 align="left">Still learning:</h3>
