@@ -11,9 +11,9 @@
 
 ## Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 和 OpenCV 的影像邊緣偵測](https://titaliu1224.github.io//posts/image-edge-detection/)
 - [使用 Python, OpenCV 建立滑桿以旋轉圖片、裁切圖片](https://titaliu1224.github.io//posts/image_crop_and_rotate/)
 - [利用 Github Actions 自動連結其他 Blog 的 RSS](https://titaliu1224.github.io//posts/automatic_link_to_other_blog/)
-- [LeetCode: 14. Longest Common Prefix](https://titaliu1224.github.io//posts/LeetCode_14_Longest_Common_Prefix/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titaliu1224&theme=nord_bright)
