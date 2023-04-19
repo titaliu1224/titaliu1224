@@ -11,9 +11,9 @@
 
 ## Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [影像處理小白（三）：使用 DFT 將影像轉換至頻域](https://titaliu1224.github.io//posts/convert_image_to_frequency_domain/)
 - [影像處理小白（二）：影像邊緣偵測](https://titaliu1224.github.io//posts/image-edge-detection/)
 - [影像處理小白（一）：建立滑桿以旋轉圖片、裁切圖片](https://titaliu1224.github.io//posts/image_crop_and_rotate/)
-- [利用 Github Actions 自動連結其他 Blog 的 RSS](https://titaliu1224.github.io//posts/automatic_link_to_other_blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titaliu1224&theme=nord_bright)
