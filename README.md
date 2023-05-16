@@ -11,9 +11,9 @@
 
 ## Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [影像處理小白（五）：利用 HSV 色域找到膚色區域](https://titaliu1224.github.io//posts/skin_detection/)
 - [影像處理小白（四）：利用頻域圖像消除週期性雜訊](https://titaliu1224.github.io//posts/notch_filter/)
 - [影像處理小白（三）：使用 DFT 將影像轉換至頻域](https://titaliu1224.github.io//posts/convert_image_to_frequency_domain/)
-- [影像處理小白（二）：影像邊緣偵測](https://titaliu1224.github.io//posts/image-edge-detection/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titaliu1224&theme=nord_bright)
