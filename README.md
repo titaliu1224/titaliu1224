@@ -11,9 +11,9 @@
 
 ## Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [影像處理小白（六）：Run-Length Encoding 壓縮圖片](https://titaliu1224.github.io//posts/run_length_encoding/)
 - [影像處理小白（五）：利用 HSV 色域找到膚色區域](https://titaliu1224.github.io//posts/skin_detection/)
 - [影像處理小白（四）：利用頻域圖像消除週期性雜訊](https://titaliu1224.github.io//posts/notch_filter/)
-- [影像處理小白（三）：使用 DFT 將影像轉換至頻域](https://titaliu1224.github.io//posts/convert_image_to_frequency_domain/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titaliu1224&theme=nord_bright)
