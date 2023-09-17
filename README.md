@@ -11,9 +11,9 @@
 
 ## Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [我是怎麼在 PChome 當一個 SQA 暑期實習仔的？（面試篇）](https://titaliu1224.github.io/posts/pchome_qa_intern_interview/)
 - [影像處理小白（六）：Run-Length Encoding 壓縮圖片](https://titaliu1224.github.io/posts/run_length_encoding/)
 - [影像處理小白（五）：利用 HSV 色域找到膚色區域](https://titaliu1224.github.io/posts/skin_detection/)
-- [影像處理小白（四）：利用頻域圖像消除週期性雜訊](https://titaliu1224.github.io/posts/notch_filter/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titaliu1224&theme=nord_bright)
