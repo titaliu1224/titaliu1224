@@ -11,9 +11,9 @@
 
 ## Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [《元得要命小鎮的聖誕危機》之誕生日誌（下）](https://titaliu1224.github.io/posts/christmas_project_tech/)
+- [《元得要命小鎮的聖誕危機》之誕生日誌（上）](https://titaliu1224.github.io/posts/christmas_project_story/)
 - [我是怎麼在 PChome 當一個 SQA 暑期實習仔的？（工作篇）](https://titaliu1224.github.io/posts/pchome_qa_intern_working/)
-- [我是怎麼在 PChome 當一個 SQA 暑期實習仔的？（面試篇）](https://titaliu1224.github.io/posts/pchome_qa_intern_interview/)
-- [影像處理小白（六）：Run-Length Encoding 壓縮圖片](https://titaliu1224.github.io/posts/run_length_encoding/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titaliu1224&theme=nord_bright)
