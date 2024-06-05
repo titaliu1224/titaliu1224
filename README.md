@@ -16,9 +16,9 @@
 - [《元得要命小鎮的聖誕危機》之誕生日誌（上）](https://titaliu1224.github.io/posts/christmas_project_story/)
 <!-- BLOG-POST-LIST:END -->
 
-![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titaliu1224&theme=nord_bright)
-![repo language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=titaliu1224&theme=nord_bright&exclude=SCSS)
-![commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=titaliu1224&theme=nord_bright&exclude=SCSS,Markdown)
+![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titaliu1224&theme=noctis_minimus)
+![repo language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=titaliu1224&theme=noctis_minimus&exclude=SCSS)
+![commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=titaliu1224&theme=noctis_minimus&exclude=SCSS,Markdown)
 
 </p>
 
