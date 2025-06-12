@@ -1,8 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/kkI1JSM.gif"></p>
 
-## Github Badges:
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titaliu1224&theme=chalk" alt="tiffanyliu1224" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -15,11 +12,14 @@
 - [在 .NET Web API 中，使用 JSON 傳遞簡單型態的參數](https://titaliu1224.github.io/posts/pass_simple_type_parameter_in_dotnet/)
 <!-- BLOG-POST-LIST:END -->
 
+## Github Badges:
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titaliu1224&theme=chalk" alt="tiffanyliu1224" /></a> </p>
+
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titaliu1224&theme=noctis_minimus)
 ![repo language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=titaliu1224&theme=noctis_minimus&exclude=SCSS)
 ![commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=titaliu1224&theme=noctis_minimus&exclude=SCSS,Markdown)
 
-</p>
 
 ## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tita-liu-7a5057224/)
