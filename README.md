@@ -1,7 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/kkI1JSM.gif"></p>
-<h3 align="center"><img src="https://i.imgur.com/YVRdp4w.gif" /></h3>
 
-## My github badges:
+## Github Badges:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titaliu1224&theme=chalk" alt="tiffanyliu1224" /></a> </p>
 
@@ -9,7 +8,7 @@
 
 - ⚡ I'm trying to **contribute in open source projects**
 
-## Latest Blogs posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [所以說，資工系要做專題還是去公司實習？](https://titaliu1224.github.io/posts/intern_or_project/)
 - [新加坡商鈦坦科技學期實習生面試心得](https://titaliu1224.github.io/posts/titansoft-pd-intern-interview/)
