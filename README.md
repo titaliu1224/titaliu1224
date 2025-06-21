@@ -7,9 +7,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [客製化 PowerShell！讓你的終端變得好看又好用](https://titaliu1224.github.io/posts/customize_your_powershell/)
 - [所以說，資工系要做專題還是去公司實習？](https://titaliu1224.github.io/posts/intern_or_project/)
 - [新加坡商鈦坦科技學期實習生面試心得](https://titaliu1224.github.io/posts/titansoft-pd-intern-interview/)
-- [在 .NET Web API 中，使用 JSON 傳遞簡單型態的參數](https://titaliu1224.github.io/posts/pass_simple_type_parameter_in_dotnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Badges:
