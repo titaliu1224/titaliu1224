@@ -7,9 +7,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [客製化 PowerShell！讓你的終端變得好看又好用](https://titaliu1224.github.io/posts/customize_your_powershell/)
+- [Bowling Kata - TDD 小白的 Dojo 體驗](https://titaliu1224.github.io/posts/bowling-kata-tdd/)
+- [客製化 PowerShell！讓終端變得好看又好用](https://titaliu1224.github.io/posts/customize_your_powershell/)
 - [所以說，資工系要做專題還是去公司實習？](https://titaliu1224.github.io/posts/intern_or_project/)
-- [新加坡商鈦坦科技學期實習生面試心得](https://titaliu1224.github.io/posts/titansoft-pd-intern-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Badges:
